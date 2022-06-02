@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "311205305599",
+    "firebase_url": "https://home-automation-2e0a4.firebaseio.com",
+    "project_id": "home-automation-2e0a4",
+    "storage_bucket": "home-automation-2e0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311205305599:android:4a28dbcc10757418ccc0ca",
+        "android_client_info": {
+          "package_name": "com.example.desk_automation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311205305599-uslvjo8681mt90r61g4gdc0uf50cpr0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCNCgeQy2C5AHNgPoe6p4t8tbz764Z8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311205305599-uslvjo8681mt90r61g4gdc0uf50cpr0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311205305599:android:eeda3af08326fb10ccc0ca",
+        "android_client_info": {
+          "package_name": "com.example.home_automation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311205305599-uslvjo8681mt90r61g4gdc0uf50cpr0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCNCgeQy2C5AHNgPoe6p4t8tbz764Z8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311205305599-uslvjo8681mt90r61g4gdc0uf50cpr0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311205305599:android:12663fb4b34c5ee9ccc0ca",
+        "android_client_info": {
+          "package_name": "com.example.rfid_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311205305599-uslvjo8681mt90r61g4gdc0uf50cpr0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCNCgeQy2C5AHNgPoe6p4t8tbz764Z8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311205305599-uslvjo8681mt90r61g4gdc0uf50cpr0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
